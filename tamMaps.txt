@@ -1,0 +1,4 @@
+Rows    =       121
+Cols    =       121
+CellWd  =       100.
+CellHt  =       100.

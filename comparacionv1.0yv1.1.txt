@@ -1,0 +1,10 @@
+para 29160 combinaciones:
+
+
+
+
+v 1.1:
+tiempo: 1269.09 sec
+
+
+
